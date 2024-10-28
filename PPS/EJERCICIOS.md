@@ -5,4 +5,4 @@ Repositorio de Ciberseguridad
 ##ASIGNATURAS
 |ACTIVIDADES|DESCRIPCIÓN|
 |-----------|-----------|
-|[1](PPS/ejercicio1.md) | Ejercicio1  |
+|[Ejercicio1](PPS/EJERCICIOS.md/Ejercicio1.md) | Actividad Evaluable 1.1  |
