@@ -1,11 +1,12 @@
 #!/bin/bash
 
 # Verificar si no se han pasado parámetros
+`````
 if [ "$#" -eq 0 ]; then
     echo "No has introducido ningún parámetro."
     exit 1  # Retornar 1 si no se pasan parámetros
 fi
-
+``````
 # Si hay parámetros, mostrar cuántos se han recibido
 echo "Se han recibido $# parámetros:"
 
