@@ -5,4 +5,4 @@ Repositorio de Ciberseguridad
 ## ASIGNATURAS
 |ACTIVIDADES|DESCRIPCIÓN|
 |-----------|-----------|
-|[Actividades](P.D.P/EJERCIOS.md) | Puesta en Producción Segura  |
+|[Actividades](PPS/EJERCIOS.md) | Puesta en Producción Segura  |
