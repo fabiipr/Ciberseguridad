@@ -1,8 +1,8 @@
-#Ciberseguridad- Fabio Pérez González
+# Ciberseguridad- Fabio Pérez González
 
 Repositorio de Ciberseguridad
 
-##ASIGNATURAS
+## ASIGNATURAS
 |ACTIVIDADES|DESCRIPCIÓN|
 |-----------|-----------|
-|[Actividades](PPS/EJERCICIOS.md) | Puesta en Producción Segura  |
+|[Actividades](EJERCICIOS.md) | Puesta en Producción Segura  |
