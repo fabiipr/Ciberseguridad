@@ -6,3 +6,4 @@ Repositorio de Ciberseguridad
 |ACTIVIDADES|DESCRIPCIÓN|
 |-----------|-----------|
 |[Actividades](PPS/EJERCICIOS.md) | Puesta en Producción Segura  |
+|[Actividades 1.2](PPS/EJERCICIOS.md) | Puesta en Producción Segura  |
