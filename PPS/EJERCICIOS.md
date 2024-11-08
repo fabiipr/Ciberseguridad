@@ -21,4 +21,4 @@ Repositorio de Ciberseguridad
 |[horoscopochino.sh](horoscopochino.sh) | Actividad Evaluable 1.2  |
 |[usuarios.sh](usuarios.sh) | Actividad Evaluable 1.2  |
 |[sumarango.sh](sumarango.sh) | Actividad Evaluable 1.2  |
-|[gestionar_usuarios.sh](gestionar_usuarios.sh) | Actividad Evaluable 1.3  |
+|[AE1.3_Pérez_González_Fabio.sh](AE1.3_Pérez_González_Fabio.sh) | Actividad Evaluable 1.3  |
